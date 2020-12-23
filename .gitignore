@@ -5,3 +5,5 @@
 /.idea/
 /nacos-service-customer/src/test/
 /nacos-service-provider/src/test/
+/nacos-config/src/test/
+/nacos-config/target/

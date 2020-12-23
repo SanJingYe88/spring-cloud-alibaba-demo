@@ -1,0 +1,12 @@
+server:
+  port: 18003
+spring:
+  application:
+    name: nacos-config
+  cloud:
+    nacos:
+      discovery:
+        server-addr: localhost:8848 #配置 Nacos 地址
+      config:
+        server-addr: localhost:8848 #配置 Nacos 地址
+        file-extension: yaml  #指定配置文件的格式 yaml
