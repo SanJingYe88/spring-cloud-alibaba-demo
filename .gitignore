@@ -1,0 +1,7 @@
+# Project exclude paths
+/nacos-service-customer/target/
+/nacos-service-provider/target/
+/spring-cloud-alibaba-demo.iml
+/.idea/
+/nacos-service-customer/src/test/
+/nacos-service-provider/src/test/
