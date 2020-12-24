@@ -7,3 +7,5 @@
 /nacos-service-provider/src/test/
 /nacos-config/src/test/
 /nacos-config/target/
+/sentinel-service/src/test/
+/sentinel-service/target/
